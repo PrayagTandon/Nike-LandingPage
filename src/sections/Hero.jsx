@@ -21,7 +21,7 @@ const Hero = () => {
           your active life.
         </p>
 
-        <Button label="Show now" iconURL={arrowRight} />
+        <Button label="Shop now" iconURL={arrowRight} />
       </div>
     </section>
   );
