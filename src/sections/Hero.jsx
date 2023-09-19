@@ -1,5 +1,7 @@
 import Button from "../components/Button";
 
+import { arrowRight } from "../assets/icons";
+
 const Hero = () => {
   return (
     <section
@@ -19,7 +21,7 @@ const Hero = () => {
           your active life.
         </p>
 
-        <Button />
+        <Button label="Show now" iconURL={arrowRight} />
       </div>
     </section>
   );
