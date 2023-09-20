@@ -6,7 +6,7 @@ import { shoes, statistics } from "../constants";
 
 import { bigShoe1 } from "../assets/images";
 
-import { ShoeCard } from "../components/ShoeCard";
+// import { ShoeCard } from "../components/ShoeCard";
 
 const Hero = () => {
   return (
@@ -19,7 +19,7 @@ const Hero = () => {
           Our Summer Collections
         </p>
 
-        <h1 className="mt-10 font-palanquin text-8xl max-sm:text-[72px] max-sm:leading-[82] font-bold flex flex-col flex-wrap">
+        <h1 className="mt-10 font-palanquin text-8xl max-sm:text-[72px] max-sm:leading-[82px] font-bold flex flex-col flex-wrap">
           <span className="xl:bg-white xl:whitespace-nowrap relative z-10 pr-10">
             The New Arrival
           </span>
@@ -56,16 +56,8 @@ const Hero = () => {
           className="object-contain relative z-10"
         />
 
-        <div className="flex sm:gap-6 gap-4 absolute -bottom-[5%] sm:left-[10%] max-sm:px-6">
-          {shoes.map((shoe) => (
-            <div key={shoe}>
-              <ShoeCard
-                imgURL={shoe}
-                changeBigShoeImage={() => {}}
-                bigShoeImg=""
-              />
-            </div>
-          ))}
+        <div>
+
         </div>
       </div>
     </section>
