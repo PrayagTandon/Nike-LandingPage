@@ -12,14 +12,16 @@ const SuperQuality = () => {
 
         <h2 className="font-palanquin text-4xl capitalize font-bold lg:max-w-lg">
           We Provide You
-          <span className=" text-coral-red">Super</span>
-          <br />
-          <span className="inline-block text-coral-red mt-3">Quality</span> Shoes
+          <span className=" text-coral-red"> Super</span>
+          <span className=" text-coral-red"> Ouality</span> Shoes
         </h2>
 
-        <p className="font-montserrat text-slate-gray text-lg leading-8 mt-6 mb-14 sm:max-w-sm">
-          Discover stylish Nike arrivals, quality comfort, and innovation for
-          your active life.
+        <p className="mt-4 lg:max-w-lg info-text">
+          Ensuring premium comfort and style, our meticulously crafted footwear is designed to elevate your experience, providing you with unmatched quality, innovation, and a touch of elegance.
+        </p>
+
+        <p className="mt-6 lg:max-w-lg info-text">
+          Our dedication to detail and excellence ensures your satisfaction
         </p>
 
         <Button label="View Details" iconURL={arrowRight} />
