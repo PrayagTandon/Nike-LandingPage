@@ -1,11 +1,10 @@
 # Nike landing page with Tailwind CSS
 
-This is a solution to the [Newsletter sign-up form with success message challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+Build a Beautiful Landing page for a Shoe website using Tailwind CSS, ReactJS and Vite.
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
   - [Built with](#built-with)
@@ -15,25 +14,15 @@ This is a solution to the [Newsletter sign-up form with success message challeng
 
 ## Overview
 
-- Developed a Newsletter SignUp Landing page using HTML, SCSS and JS.
-- Used SASS as a CSS preprocessor and used Modern CSS such as Flexbox and Grid.
-
-### The challenge
-
-Users should be able to:
-
-- Add their email and submit the form
-- See a success message with their email after successfully submitting the form
-- See form validation messages if:
-  - The field is left empty
-  - The email address is not formatted correctly
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
+- Developed a Nike Shoe website Landing page using ReactJS , ReactJS templates , Tailwind CSS and Vite.
+- Used Tailwind CSS as a CSS framework to write complex and Modern CSS with ease.
+- Integrated Tailwind CSS with ReactJS to make industry oriented approach for website development.
+- Managed the whole development using Vite which helped to create a basic template using ReactJS.
 
 ### Screenshot
 
-![Main-page Screenshot](Img/MainPage.png)
-![Success-page Screenshot](Img/SuccessPage.png)
+![Project-section Screenshot](/screenshot/Homepage-screenshot.png)
+![Offers-section Screenshot](/screenshot/Offers-screenshot.png)
 
 ### Links
 
