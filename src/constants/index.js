@@ -1,4 +1,4 @@
-import { linkedIn, instagram, shieldTick, support, truckFast, twitter } from "../assets/icons";
+import { linkedIn, github, shieldTick, support, truckFast, codepen } from "../assets/icons";
 import { bigShoe1, bigShoe2, bigShoe3, customer1, customer2, shoe4, shoe5, shoe6, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3 } from "../assets/images";
 
 export const navLinks = [
@@ -118,7 +118,7 @@ export const footerLinks = [
 ];
 
 export const socialMedia = [
-    { src: linkedIn, alt: "facebook logo", href: "https://www.linkedin.com/in/prayag-tandon/" },
-    { src: twitter, alt: "twitter logo", href: "" },
-    { src: instagram, alt: "instagram logo", href: "" },
+    { src: linkedIn, alt: "LinkedIn logo", href: "https://www.linkedin.com/in/prayag-tandon/" },
+    { src: github, alt: "Github logo", href: "https://github.com/PrayagTandon" },
+    { src: codepen, alt: "codepen logo", href: "https://codepen.io/PrayagT" },
 ];
