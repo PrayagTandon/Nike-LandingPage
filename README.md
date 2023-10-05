@@ -1,6 +1,6 @@
-# Frontend Mentor - Order summary card
+# Nike Landing Page
 
-![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Order summary card coding challenge](/screenshot/Homepage-screenshot.png)
 
 ## Welcome! 👋
 
