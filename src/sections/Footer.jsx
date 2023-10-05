@@ -20,10 +20,16 @@ const footer = () => {
               <div className="flex justify-center items-center w-12 h-12 bg-white rounded-full">
                 <img
                   src={icon.src}
-                  alt={icon.alt} />
+                  alt={icon.alt}
+                  width={24}
+                  height={24} />
               </div>
             ))}
           </div>
+        </div>
+
+        <div className="flex flex-1 justify-between lg:gap-10 gap-20 flex-wrap">
+
         </div>
       </div>
     </footer>
