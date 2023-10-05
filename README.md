@@ -26,19 +26,16 @@ Build a Beautiful Landing page for a Shoe website using Tailwind CSS, ReactJS an
 
 ### Links
 
-- Solution URL: [Solution on Github](https://github.com/PrayagTandon/Newsletter-signup)
-- Live Site URL: [Live site](https://newsletter-signup-prayag.netlify.app/)
+- Solution URL: [Solution on Github](https://github.com/PrayagTandon/Nike-LandingPage)
+- Live Site URL: [Live site](https://nike-landing-prayag.netlify.app/)
 
 ### Built with
 
 - Semantic HTML5 markup
 - Used modern HTML5 elements such as Main and Aside instead of generic Div
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Desktop-first Workflow
-- Used SASS as a CSS Preprocessor
-- Used NPM to install some additional packages
+- Tailwind CSS as a CSS framework
+- ReactJS for using reusable components
+- Vite for making development easier
 
 ### What I learned
 
