@@ -39,13 +39,13 @@ Build a Beautiful Landing page for a Shoe website using Tailwind CSS, ReactJS an
 
 ### What I learned
 
-- .email-input:invalid+.email-label .email-label--invalid-text : Used extensive CSS selector to select an Element.
-- Wrote JS logic for two button and Applied utility classes using the JS EventListener.
+- Developed a full landing page using Tailwind CSS and applied the concepts of Tailwind CSS.
+- Integrated Tailwind CSS with ReactJS for industry level approach to website development.
 
 ### Continued development
 
-- Developing skills to write more Fluent JS code.
-- Develop more JS skills
+- Developing skills to write more Fluent Tailwind and ReactJS code.
+- To make individual Shoe page
 
 ## Author
 
