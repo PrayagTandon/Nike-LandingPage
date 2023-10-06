@@ -45,11 +45,13 @@ Build a Beautiful Landing page for a Shoe website using Tailwind CSS, ReactJS an
 ### Continued development
 
 - Developing skills to write more Fluent Tailwind and ReactJS code.
-- To make individual Shoe page
+- To make individual Shoe page that displays each shoe description.
+- Make a Add to cart option to add products to the cart alongwith the paymnet integration.
+- Make a responsive navbar.
 
 ## Author
 
 - Github - [Prayag Tandon](https://github.com/PrayagTandon)
-- Frontend Mentor - [@PrayagTandon](https://www.frontendmentor.io/profile/PrayagTandon)
+- LinkedIn- [@PrayagTandon](https://www.linkedin.com/in/prayag-tandon/)
 
-## My honest take on this Frontend Mentor challenge. Any suggestion is appreciated.
+### Design inspiration from @JavaScript_Mastery Youtube channel.
