@@ -54,4 +54,3 @@ Build a Beautiful Landing page for a Shoe website using Tailwind CSS, ReactJS an
 - Github - [Prayag Tandon](https://github.com/PrayagTandon)
 - LinkedIn- [@PrayagTandon](https://www.linkedin.com/in/prayag-tandon/)
 
-### Design inspiration from [@JavaScriptmastery](https://www.youtube.com/@javascriptmastery) Youtube channel.
